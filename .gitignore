@@ -1,0 +1,14 @@
+.env
+.claude/
+venv/
+__pycache__/
+*.pyc
+capstone.db
+.DS_Store
+.vscode/
+app_err.txt
+app_out.txt
+launch_err.txt
+launch_out.txt
+le.txt
+lo.txt
